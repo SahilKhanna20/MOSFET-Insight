@@ -51,6 +51,8 @@ A Python-based application that predicts the DC and transient behavior of a CMOS
 ![Sequential Model](https://github.com/user-attachments/assets/758079c6-742d-4c93-b32d-07d39081cb7d)
 ![Input Parameters](https://github.com/user-attachments/assets/8fd979d0-eb1d-4f92-a524-634308cd10b7)
 ![VTC Plot](https://github.com/user-attachments/assets/8c3410f6-a960-4e52-add0-cebab7fdec2c)
+![Critical Voltages](https://github.com/user-attachments/assets/7c8e2c04-63cf-4db2-be56-7f02dbb399ba)
+
 
 ## 📸 Preview(Transient Analysis)
 ![LSTM Model](https://github.com/user-attachments/assets/5b8ef1b6-cf42-4130-9c13-b4df68a488ec)
