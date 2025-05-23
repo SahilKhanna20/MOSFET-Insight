@@ -43,12 +43,17 @@ A Python-based application that predicts the DC and transient behavior of a CMOS
 
 ---
 
-> ⚠️ **Note**: Ensure dataset files (e.g. `Realistic_CMOS_VTC_HighRes.csv`) are available in the working directory. Run on Google Colab or local Python environment with the listed dependencies installed.
+> ⚠️ **Note**: Ensure dataset files (e.g. `CMOS_VTC_Dataset.csv`) are available in the working directory. Run on Google Colab or local Python environment with the listed dependencies installed.
 
 ---
 
-## 📸 Preview
-![VTC_Plot](https://github.com/user-attachments/assets/example-vtc-plot.png)
-![Transient_Plot](https://github.com/user-attachments/assets/example-transient-plot.png)
+## 📸 Preview(DC Analysis)
+![Sequential Model](https://github.com/user-attachments/assets/758079c6-742d-4c93-b32d-07d39081cb7d)
+![Input Parameters](https://github.com/user-attachments/assets/8fd979d0-eb1d-4f92-a524-634308cd10b7)
+![VTC Plot](https://github.com/user-attachments/assets/8c3410f6-a960-4e52-add0-cebab7fdec2c)
+
+## 📸 Preview(Transient Analysis)
+![LSTM Model](https://github.com/user-attachments/assets/5b8ef1b6-cf42-4130-9c13-b4df68a488ec)
+![Transient Analysis](https://github.com/user-attachments/assets/d6944af6-5f7a-49fd-9454-922e1f021ace)
 
 ---
